@@ -1,3 +1,3 @@
 # Infinite-Scroll
-Simple, but practicle and responsive mini project using Unsplash API.
+Practicle and responsive mini project using Unsplash API.
  
